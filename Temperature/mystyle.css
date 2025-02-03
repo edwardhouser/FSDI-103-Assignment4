@@ -1,0 +1,35 @@
+.cold{
+    color:blue;
+}
+
+.normal{
+    color:green;
+}
+
+.hot{
+    color:red;
+}
+
+.container{
+    display: flex;
+    text-align: center;
+    align-items: center;
+    width: 80%;
+    flex-direction: column;
+    background-color: lightgray;
+}
+
+img{
+    max-width: 700px;
+
+}
+
+button{
+    width: 250px;
+    height: 50px;
+    background-color: lightgreen;
+    font-size: x-large;
+    border: 2px solid black;
+
+
+}
